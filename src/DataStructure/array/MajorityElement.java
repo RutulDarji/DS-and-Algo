@@ -3,6 +3,14 @@ package DataStructure.array;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ *
+ * @Author : Rutul Darji
+ * @Description : Write a function which takes an array and prints the majority element (if it exists), otherwise prints “No Majority Element”.
+ * A majority element in an array A[] of size n is an element that appears more than n/2 times
+ * @Link : https://www.geeksforgeeks.org/majority-element/
+ * */
+
 public class MajorityElement {
 
     public static void findMajorityElement(int array[]) {
