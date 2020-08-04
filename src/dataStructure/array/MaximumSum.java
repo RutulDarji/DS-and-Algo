@@ -5,6 +5,11 @@ package dataStructure.array;
  * @Author : Rutul Darji
  * @Description : Given an array of positive numbers, find the maximum sum of a subsequence with the constraint
  *                  that no 2 numbers in the sequence should be adjacent in the array
+ *                  need 2 sum :
+ *                  excl_max: max sum excluding current Sum
+ *                  incl_sum : max sum including current sum
+ *                  excl_max : math of incl and excl
+ *                  incl_max : excl + current element
  * @Link : https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
  * */
 public class MaximumSum {
