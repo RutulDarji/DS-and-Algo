@@ -1,7 +1,5 @@
 package CrackingCodingInterview.linkedlist;
 
-import dataStructure.linkedList.Add2Numbers;
-
 import java.util.Stack;
 
 public class PallindromeCheck {
